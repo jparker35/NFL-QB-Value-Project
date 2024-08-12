@@ -1,0 +1,418 @@
+[
+    {
+        "Name": "Tua Tagovailoa",
+        "Ultra Stat": 1033.0
+    },
+    {
+        "Name": "Jared Goff",
+        "Ultra Stat": 1614.6
+    },
+    {
+        "Name": "Dak Prescott",
+        "Ultra Stat": 2549.8
+    },
+    {
+        "Name": "Josh Allen",
+        "Ultra Stat": 748.2
+    },
+    {
+        "Name": "Brock Purdy",
+        "Ultra Stat": 2261.6
+    },
+    {
+        "Name": "Patrick Mahomes",
+        "Ultra Stat": 840.2
+    },
+    {
+        "Name": "Jordan Love",
+        "Ultra Stat": 800.5
+    },
+    {
+        "Name": "C.J. Stroud",
+        "Ultra Stat": 1889.9
+    },
+    {
+        "Name": "Baker Mayfield",
+        "Ultra Stat": 749.4
+    },
+    {
+        "Name": "Trevor Lawrence",
+        "Ultra Stat": 376.5
+    },
+    {
+        "Name": "Matthew Stafford",
+        "Ultra Stat": 865.0
+    },
+    {
+        "Name": "Sam Howell",
+        "Ultra Stat": 71.4
+    },
+    {
+        "Name": "Derek Carr",
+        "Ultra Stat": 801.9
+    },
+    {
+        "Name": "Jalen Hurts",
+        "Ultra Stat": 637.8
+    },
+    {
+        "Name": "Lamar Jackson",
+        "Ultra Stat": 3415.7
+    },
+    {
+        "Name": "Geno Smith",
+        "Ultra Stat": 613.6
+    },
+    {
+        "Name": "Gardner Minshew II",
+        "Ultra Stat": 378.0
+    },
+    {
+        "Name": "Justin Herbert",
+        "Ultra Stat": 430.5
+    },
+    {
+        "Name": "Russell Wilson",
+        "Ultra Stat": 582.1
+    },
+    {
+        "Name": "Bryce Young",
+        "Ultra Stat": 28.3
+    },
+    {
+        "Name": "Desmond Ridder",
+        "Ultra Stat": 162.1
+    },
+    {
+        "Name": "Justin Fields",
+        "Ultra Stat": 219.0
+    },
+    {
+        "Name": "Joshua Dobbs",
+        "Ultra Stat": 82.1
+    },
+    {
+        "Name": "Kirk Cousins",
+        "Ultra Stat": 1049.0
+    },
+    {
+        "Name": "Joe Burrow",
+        "Ultra Stat": 577.2
+    },
+    {
+        "Name": "Zach Wilson",
+        "Ultra Stat": 123.6
+    },
+    {
+        "Name": "Aidan O'Connell",
+        "Ultra Stat": 345.6
+    },
+    {
+        "Name": "Mac Jones",
+        "Ultra Stat": 35.7
+    },
+    {
+        "Name": "Kenny Pickett",
+        "Ultra Stat": 362.2
+    },
+    {
+        "Name": "Jake Browning",
+        "Ultra Stat": 491.7
+    },
+    {
+        "Name": "Will Levis",
+        "Ultra Stat": 200.9
+    },
+    {
+        "Name": "Kyler Murray",
+        "Ultra Stat": 269.9
+    },
+    {
+        "Name": "Joe Flacco",
+        "Ultra Stat": 2100.8
+    },
+    {
+        "Name": "Ryan Tannehill",
+        "Ultra Stat": 55.4
+    },
+    {
+        "Name": "Tyrod Taylor",
+        "Ultra Stat": 135.4
+    },
+    {
+        "Name": "Nick Mullens",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Bailey Zappe",
+        "Ultra Stat": 42.4
+    },
+    {
+        "Name": "Jimmy Garoppolo",
+        "Ultra Stat": 133.9
+    },
+    {
+        "Name": "Easton Stick",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Deshaun Watson",
+        "Ultra Stat": 1625.8
+    },
+    {
+        "Name": "Tommy DeVito",
+        "Ultra Stat": 326.1
+    },
+    {
+        "Name": "Daniel Jones",
+        "Ultra Stat": 10.1
+    },
+    {
+        "Name": "Taylor Heinicke",
+        "Ultra Stat": 74.2
+    },
+    {
+        "Name": "Tyson Bagent",
+        "Ultra Stat": 85.9
+    },
+    {
+        "Name": "Trevor Siemian",
+        "Ultra Stat": 144.8
+    },
+    {
+        "Name": "Mason Rudolph",
+        "Ultra Stat": 1618.2
+    },
+    {
+        "Name": "P.J. Walker",
+        "Ultra Stat": 22.5
+    },
+    {
+        "Name": "Mitchell Trubisky",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Anthony Richardson",
+        "Ultra Stat": 432.9
+    },
+    {
+        "Name": "Drew Lock",
+        "Ultra Stat": 135.8
+    },
+    {
+        "Name": "Jarrett Stidham",
+        "Ultra Stat": 330.6
+    },
+    {
+        "Name": "Dorian Thompson-Robinson",
+        "Ultra Stat": 6.9
+    },
+    {
+        "Name": "Andy Dalton",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Tim Boyle",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "C.J. Beathard",
+        "Ultra Stat": 49.9
+    },
+    {
+        "Name": "Sam Darnold",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Case Keenum",
+        "Ultra Stat": 48.5
+    },
+    {
+        "Name": "Jameis Winston",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Brian Hoyer",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jacoby Brissett",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Tyler Huntley",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Blaine Gabbert",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Davis Mills",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Brett Rypien",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jaren Hall",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jeff Driskel",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Marcus Mariota",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Carson Wentz",
+        "Ultra Stat": 163.0
+    },
+    {
+        "Name": "Cooper Rush",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Taysom Hill",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Mike White",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Malik Willis",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Clayton Tune",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Keenan Allen",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Sean Clifford",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jalen Reeves-Maybin",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Braden Mann",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Logan Woodside",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Drake London",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "A.J. McCarron",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Thomas Morstead",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Kenneth Gainwell",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Derrick Henry",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Dontayvion Wicks",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Logan Cooke",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jakobi Meyers",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Tommy Townsend",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Johnny Hekker",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Devin Singletary",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Dyami Brown",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jerick McKinnon",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Tyler Boyd",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Chris Godwin",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Connor Heyward",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "DeAndre Hopkins",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Justin Jefferson",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Aaron Rodgers",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Deebo Samuel",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Jonnu Smith",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Kadarius Toney",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Kyle Trask",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Garrett Wilson",
+        "Ultra Stat": 0.0
+    },
+    {
+        "Name": "Christian Kirk",
+        "Ultra Stat": -0.0
+    },
+    {
+        "Name": "Ja'Marr Chase",
+        "Ultra Stat": -0.0
+    }
+]

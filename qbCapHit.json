@@ -1,0 +1,442 @@
+[
+    {
+        "Name": "Patrick Mahomes",
+        "Cap Hit": 37133824.0
+    },
+    {
+        "Name": "Ryan Tannehill",
+        "Cap Hit": 36600000.0
+    },
+    {
+        "Name": "Jared Goff",
+        "Cap Hit": 30975000.0
+    },
+    {
+        "Name": "Dak Prescott",
+        "Cap Hit": 26832647.0
+    },
+    {
+        "Name": "Lamar Jackson",
+        "Cap Hit": 22150000.0
+    },
+    {
+        "Name": "Russell Wilson",
+        "Cap Hit": 22000000.0
+    },
+    {
+        "Name": "Kirk Cousins",
+        "Cap Hit": 20250000.0
+    },
+    {
+        "Name": "Matthew Stafford",
+        "Cap Hit": 20000000.0
+    },
+    {
+        "Name": "Joe Burrow",
+        "Cap Hit": 19515043.0
+    },
+    {
+        "Name": "Deshaun Watson",
+        "Cap Hit": 19057000.0
+    },
+    {
+        "Name": "Josh Allen",
+        "Cap Hit": 18636281.0
+    },
+    {
+        "Name": "Kyler Murray",
+        "Cap Hit": 16007000.0
+    },
+    {
+        "Name": "Daniel Jones",
+        "Cap Hit": 15435000.0
+    },
+    {
+        "Name": "Geno Smith",
+        "Cap Hit": 10100000.0
+    },
+    {
+        "Name": "Trevor Lawrence",
+        "Cap Hit": 10034587.0
+    },
+    {
+        "Name": "Tua Tagovailoa",
+        "Cap Hit": 9633093.0
+    },
+    {
+        "Name": "Zach Wilson",
+        "Cap Hit": 9586549.0
+    },
+    {
+        "Name": "Aaron Rodgers",
+        "Cap Hit": 8888888.0
+    },
+    {
+        "Name": "Jacoby Brissett",
+        "Cap Hit": 8500000.0
+    },
+    {
+        "Name": "Justin Herbert",
+        "Cap Hit": 8456876.0
+    },
+    {
+        "Name": "Derek Carr",
+        "Cap Hit": 7200000.0
+    },
+    {
+        "Name": "Jimmy Garoppolo",
+        "Cap Hit": 7002000.0
+    },
+    {
+        "Name": "Bryce Young",
+        "Cap Hit": 6900922.0
+    },
+    {
+        "Name": "Tyrod Taylor",
+        "Cap Hit": 6900000.0
+    },
+    {
+        "Name": "C.J. Stroud",
+        "Cap Hit": 6596226.0
+    },
+    {
+        "Name": "Sam Darnold",
+        "Cap Hit": 6300000.0
+    },
+    {
+        "Name": "Anthony Richardson",
+        "Cap Hit": 6180733.0
+    },
+    {
+        "Name": "Jalen Hurts",
+        "Cap Hit": 6154286.0
+    },
+    {
+        "Name": "Mitchell Trubisky",
+        "Cap Hit": 6011666.0
+    },
+    {
+        "Name": "Taylor Heinicke",
+        "Cap Hit": 5700000.0
+    },
+    {
+        "Name": "Justin Fields",
+        "Cap Hit": 5146896.0
+    },
+    {
+        "Name": "Jameis Winston",
+        "Cap Hit": 4532000.0
+    },
+    {
+        "Name": "Jordan Love",
+        "Cap Hit": 4409271.0
+    },
+    {
+        "Name": "Mac Jones",
+        "Cap Hit": 4250820.0
+    },
+    {
+        "Name": "Drew Lock",
+        "Cap Hit": 4000000.0
+    },
+    {
+        "Name": "Gardner Minshew",
+        "Cap Hit": 3500000.0
+    },
+    {
+        "Name": "Kenny Pickett",
+        "Cap Hit": 3197251.0
+    },
+    {
+        "Name": "Jarrett Stidham",
+        "Cap Hit": 3000000.0
+    },
+    {
+        "Name": "Teddy Bridgewater",
+        "Cap Hit": 2800000.0
+    },
+    {
+        "Name": "Mike White",
+        "Cap Hit": 2790000.0
+    },
+    {
+        "Name": "Case Keenum",
+        "Cap Hit": 2750000.0
+    },
+    {
+        "Name": "Tyler Huntley",
+        "Cap Hit": 2627000.0
+    },
+    {
+        "Name": "Andy Dalton",
+        "Cap Hit": 2132000.0
+    },
+    {
+        "Name": "Cooper Rush",
+        "Cap Hit": 2125000.0
+    },
+    {
+        "Name": "C.J. Beathard",
+        "Cap Hit": 2080000.0
+    },
+    {
+        "Name": "Marcus Mariota",
+        "Cap Hit": 1932000.0
+    },
+    {
+        "Name": "Will Levis",
+        "Cap Hit": 1734938.0
+    },
+    {
+        "Name": "Nick Mullens",
+        "Cap Hit": 1725000.0
+    },
+    {
+        "Name": "Baker Mayfield",
+        "Cap Hit": 1700000.0
+    },
+    {
+        "Name": "Brian Hoyer",
+        "Cap Hit": 1655000.0
+    },
+    {
+        "Name": "Nate Sudfeld",
+        "Cap Hit": 1600000.0
+    },
+    {
+        "Name": "Kyle Trask",
+        "Cap Hit": 1509637.0
+    },
+    {
+        "Name": "Davis Mills",
+        "Cap Hit": 1424209.0
+    },
+    {
+        "Name": "Easton Stick",
+        "Cap Hit": 1232500.0
+    },
+    {
+        "Name": "Desmond Ridder",
+        "Cap Hit": 1218855.0
+    },
+    {
+        "Name": "Joe Flacco",
+        "Cap Hit": 1175000.0
+    },
+    {
+        "Name": "Malik Willis",
+        "Cap Hit": 1172750.0
+    },
+    {
+        "Name": "Brandon Allen",
+        "Cap Hit": 1092500.0
+    },
+    {
+        "Name": "Kyle Allen",
+        "Cap Hit": 1092500.0
+    },
+    {
+        "Name": "Blaine Gabbert",
+        "Cap Hit": 1092500.0
+    },
+    {
+        "Name": "Logan Woodside",
+        "Cap Hit": 1010000.0
+    },
+    {
+        "Name": "Sam Ehlinger",
+        "Cap Hit": 972676.0
+    },
+    {
+        "Name": "Sam Howell",
+        "Cap Hit": 960400.0
+    },
+    {
+        "Name": "Mason Rudolph",
+        "Cap Hit": 940000.0
+    },
+    {
+        "Name": "Trey Lance",
+        "Cap Hit": 940000.0
+    },
+    {
+        "Name": "Skylar Thompson",
+        "Cap Hit": 890552.0
+    },
+    {
+        "Name": "Brock Purdy",
+        "Cap Hit": 889253.0
+    },
+    {
+        "Name": "Aidan O'Connell",
+        "Cap Hit": 877345.0
+    },
+    {
+        "Name": "Bailey Zappe",
+        "Cap Hit": 870000.0
+    },
+    {
+        "Name": "Clayton Tune",
+        "Cap Hit": 837656.0
+    },
+    {
+        "Name": "Joshua Dobbs",
+        "Cap Hit": 833333.0
+    },
+    {
+        "Name": "Sean Clifford",
+        "Cap Hit": 831045.0
+    },
+    {
+        "Name": "Jaren Hall",
+        "Cap Hit": 819818.0
+    },
+    {
+        "Name": "Dorian Thompson-Robinson",
+        "Cap Hit": 802234.0
+    },
+    {
+        "Name": "Tanner McKee",
+        "Cap Hit": 796630.0
+    },
+    {
+        "Name": "Hendon Hooker",
+        "Cap Hit": 789823.0
+    },
+    {
+        "Name": "Josh Johnson",
+        "Cap Hit": 783333.0
+    },
+    {
+        "Name": "Tyson Bagent",
+        "Cap Hit": 758333.0
+    },
+    {
+        "Name": "Jake Browning",
+        "Cap Hit": 750000.0
+    },
+    {
+        "Name": "Nathan Peterman",
+        "Cap Hit": 678889.0
+    },
+    {
+        "Name": "Jake Haener",
+        "Cap Hit": 676203.0
+    },
+    {
+        "Name": "Stetson Bennett",
+        "Cap Hit": 624783.0
+    },
+    {
+        "Name": "Carson Wentz",
+        "Cap Hit": 620000.0
+    },
+    {
+        "Name": "John Wolford",
+        "Cap Hit": 561111.0
+    },
+    {
+        "Name": "Feleipe Franks",
+        "Cap Hit": 505000.0
+    },
+    {
+        "Name": "Tommy DeVito",
+        "Cap Hit": 416667.0
+    },
+    {
+        "Name": "David Blough",
+        "Cap Hit": 370800.0
+    },
+    {
+        "Name": "Trevor Siemian",
+        "Cap Hit": 365556.0
+    },
+    {
+        "Name": "Ben DiNucci",
+        "Cap Hit": 324999.0
+    },
+    {
+        "Name": "A.J. McCarron",
+        "Cap Hit": 313333.0
+    },
+    {
+        "Name": "Brett Rypien",
+        "Cap Hit": 261111.0
+    },
+    {
+        "Name": "Chris Oladokun",
+        "Cap Hit": 245667.0
+    },
+    {
+        "Name": "Alex McGough",
+        "Cap Hit": 216000.0
+    },
+    {
+        "Name": "Shane Buechele",
+        "Cap Hit": 216000.0
+    },
+    {
+        "Name": "Malik Cunningham",
+        "Cap Hit": 166667.0
+    },
+    {
+        "Name": "Sean Mannion",
+        "Cap Hit": 166244.0
+    },
+    {
+        "Name": "Jeff Driskel",
+        "Cap Hit": 164444.0
+    },
+    {
+        "Name": "Will Grier",
+        "Cap Hit": 156667.0
+    },
+    {
+        "Name": "Kellen Mond",
+        "Cap Hit": 156000.0
+    },
+    {
+        "Name": "Nathan Rourke",
+        "Cap Hit": 125000.0
+    },
+    {
+        "Name": "Phillip Walker",
+        "Cap Hit": 112222.0
+    },
+    {
+        "Name": "Matt Barkley",
+        "Cap Hit": 104444.0
+    },
+    {
+        "Name": "Jake Fromm",
+        "Cap Hit": 104444.0
+    },
+    {
+        "Name": "Drew Plitt",
+        "Cap Hit": 84000.0
+    },
+    {
+        "Name": "Trace McSorley",
+        "Cap Hit": 80500.0
+    },
+    {
+        "Name": "Tim Boyle",
+        "Cap Hit": 61800.0
+    },
+    {
+        "Name": "Jacob Eason",
+        "Cap Hit": 52222.0
+    },
+    {
+        "Name": "Dresser Winn",
+        "Cap Hit": 41667.0
+    },
+    {
+        "Name": "EJ Perry",
+        "Cap Hit": 36000.0
+    },
+    {
+        "Name": "Max Duggan",
+        "Cap Hit": 24000.0
+    }
+]
